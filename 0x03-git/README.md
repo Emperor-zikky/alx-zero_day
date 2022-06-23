@@ -1,1 +1,12 @@
 not empty
+mkdir bash
+mkdir c
+mkdir js
+cd c
+touch c_is_fun.c
+cd ..
+cd js
+touch main.js
+touch index.js
+cd ..
+cd bash
