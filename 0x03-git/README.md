@@ -3,7 +3,7 @@ mkdir bash
 mkdir c
 mkdir js
 cd c
-touch c_is_fun.c
+touch c/c_is_fun.c
 cd ..
 cd js
 touch main.js
